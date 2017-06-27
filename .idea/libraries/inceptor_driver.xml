@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inceptor-driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/springdemo/WEB-INF/lib/inceptor-driver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
